@@ -75,7 +75,10 @@
 
     <img width="500" alt="Screenshot from 2024-09-04 01-19-58" src="https://github.com/user-attachments/assets/3a11da7b-9b05-43a1-8966-9ad25d4d36f5">
 
-17. 
+17. id = Memberikan detail tentang user ID (UID), group ID (GID), dan grup yang menjadi anggota pengguna tersebut.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-26-24" src="https://github.com/user-attachments/assets/9003c350-3b1f-4047-9513-4eb8c9ae32c7">
+
 
 
 
