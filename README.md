@@ -79,6 +79,12 @@
 
     <img width="500" alt="Screenshot from 2024-09-04 01-26-24" src="https://github.com/user-attachments/assets/9003c350-3b1f-4047-9513-4eb8c9ae32c7">
 
+18. fg = memindahkan sebuah pekerjaan (job) yang berjalan di latar belakang ke latar depan. Ini memungkinkan Anda untuk berinteraksi dengan proses tersebut secara langsung.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-29-58" src="https://github.com/user-attachments/assets/ede494b5-74d4-4be4-8548-d7f12580a45d">
+
+    
+
 
 
 
