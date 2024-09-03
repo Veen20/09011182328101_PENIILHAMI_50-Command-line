@@ -79,9 +79,23 @@
 
     <img width="500" alt="Screenshot from 2024-09-04 01-26-24" src="https://github.com/user-attachments/assets/9003c350-3b1f-4047-9513-4eb8c9ae32c7">
 
-18. fg = memindahkan sebuah pekerjaan (job) yang berjalan di latar belakang ke latar depan. Ini memungkinkan Anda untuk berinteraksi dengan proses tersebut secara langsung.
+18. fg = Memindahkan sebuah pekerjaan (job) yang berjalan di latar belakang ke latar depan. Ini memungkinkan Anda untuk berinteraksi dengan proses tersebut secara langsung.
 
     <img width="500" alt="Screenshot from 2024-09-04 01-29-58" src="https://github.com/user-attachments/assets/ede494b5-74d4-4be4-8548-d7f12580a45d">
+
+19. bg = Melanjutkan sebuah pekerjaan yang sedang berhenti (suspended) di latar belakang. Ini akan menjalankan proses tersebut di latar belakang, memungkinkan Anda untuk menjalankan perintah lain di terminal sambil membiarkan proses berjalan.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-34-08" src="https://github.com/user-attachments/assets/9f9ac1fb-1675-4c68-84ac-fe34bb21fdb5">
+
+20. tar = membuat arsip file dan direktori serta mengekstrak arsip. Nama tar berasal dari "tape archive," dan alat ini awalnya dirancang untuk menyimpan data ke tape. tar sering digunakan untuk membuat file arsip, yang biasanya disertai dengan kompresi menggunakan gzip atau bzip2.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-36-08" src="https://github.com/user-attachments/assets/42f61e16-4322-4a74-ad2e-26ae520f9266">
+
+21. 
+
+
+    
+
 
     
 
