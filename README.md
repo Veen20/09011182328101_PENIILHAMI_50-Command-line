@@ -123,7 +123,33 @@
 
     <img width="500" alt="Screenshot from 2024-09-04 02-04-21" src="https://github.com/user-attachments/assets/e8ed5f60-2fb9-45a0-bb13-f4d90325ba4b">
 
-29. 
+29. free =  menampilkan informasi tentang penggunaan memori di sistem, termasuk memori fisik (RAM) dan memori swap.
+
+ <img width="500" alt="Screenshot from 2024-09-04 02-07-17" src="https://github.com/user-attachments/assets/c9f935b4-559f-4101-bdca-670ccd0c1e60">
+
+30. find =  Mencari file dan direktori.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-10-31" src="https://github.com/user-attachments/assets/0b734fa9-9f89-4e79-a10f-12305a6d5a92">
+
+31. vmstat = Menampilkan statistik sistem.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-13-02" src="https://github.com/user-attachments/assets/72be697e-18fa-49ac-9f97-b10a9e02868a">
+
+32. iostat = Menampilkan statistik input/output perangkat.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-15-07" src="https://github.com/user-attachments/assets/ada1ecfa-a909-4829-8b2d-e64ef7dd421b">
+
+33. ss = Menampilkan informasi tentang soket.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-22-25" src="https://github.com/user-attachments/assets/02579850-c0aa-486f-af17-17ab5dda807f">
+
+34. dig = Menyediakan informasi DNS.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-24-56" src="https://github.com/user-attachments/assets/b7ce502e-d269-481d-9da7-9fade954161c">
+
+    
+
+   
 
     
 
