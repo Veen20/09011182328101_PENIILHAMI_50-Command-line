@@ -31,7 +31,7 @@
 
    <img width="500" alt="Screenshot from 2024-09-04 00-37-42" src="https://github.com/user-attachments/assets/cfc3b656-1d16-4124-8dd3-c6c95b5d0ca0">
 
-6. Clear = Membersihkan layar terminal.
+6. clear = Membersihkan layar terminal.
 
    <img width="500" alt="Screenshot from 2024-09-04 00-39-42" src="https://github.com/user-attachments/assets/53cc199d-a4d5-4f05-9660-9f37819d0d44">
 
@@ -47,7 +47,21 @@
 
     <img width="500" alt="Screenshot from 2024-09-04 00-47-18" src="https://github.com/user-attachments/assets/a09ea9ca-accf-4a53-807f-0d81ed11d8f0">
 
-10.
+10. df -h = Menampilkan informasi penggunaan disk dalam format yang mudah dibaca manusia.
+
+    <img width="500" alt="Screenshot from 2024-09-04 00-56-28" src="https://github.com/user-attachments/assets/3b45ef16-dfea-46c6-806b-eee8cd85bb35">
+
+11. ls = Menampilkan daftar file dan direktori di dalam direktori saat ini.
+
+    < img width="500" alt="Screenshot from 2024-09-04 01-05-36" src="https://github.com/user-attachments/assets/4ead1a65-d153-48da-ba6f-615bd5e54517">
+
+12. 
+
+
+    
+
+
+    
 
     
   
