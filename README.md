@@ -7,6 +7,10 @@
 *KELAS           : SK3B*\
 *MATA KULIAH     : SISTEM OPERASI*
 
-pwd = Menampilkan direktory kerja saat ini (Print Working Directory)
+<div align="justify">
+
+  ## 50 command line
+  
+1. pwd = Menampilkan direktory kerja saat ini (Print Working Directory)
 
 cd
