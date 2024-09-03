@@ -147,6 +147,34 @@
 
     <img width="500" alt="Screenshot from 2024-09-04 02-24-56" src="https://github.com/user-attachments/assets/b7ce502e-d269-481d-9da7-9fade954161c">
 
+35. sed = memodifikasi teks secara aliran. Ini sangat berguna untuk memproses dan mengubah file teks atau output dari perintah lain. sed sering digunakan dalam skrip shell dan untuk melakukan pengeditan teks sederhana.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-30-41" src="https://github.com/user-attachments/assets/19e4531f-334a-48e4-a93e-e8bae23b4de3">
+
+36. last =  menampilkan daftar login pengguna dan aktivitas sistem dari file log /var/log/wtmp. Ini berguna untuk melihat informasi tentang sesi login sebelumnya dan aktivitas sistem.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-34-05" src="https://github.com/user-attachments/assets/ed2aa6ca-45b7-41fa-b91e-c28923659d96">
+
+37. ipcs =  menampilkan informasi tentang IPC (Inter-Process Communication) resources seperti shared memory, message queues, dan semaphore arrays di sistem Linux. Ini berguna untuk memantau dan mendiagnosis komunikasi antara proses.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-37-20" src="https://github.com/user-attachments/assets/bf449945-ac76-4f3a-8fc0-4059bdf55cf5">
+
+38. fsck = memeriksa dan memperbaiki kesalahan pada sistem file. Ini sangat penting untuk menjaga integritas sistem file dan mencegah kerusakan data.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-39-23" src="https://github.com/user-attachments/assets/725bf919-1f0d-4679-a812-9ee74b7fa5cc">
+
+39. df = Menampilkan Ruang Disk yang Tersedia.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-43-57" src="https://github.com/user-attachments/assets/3fa9a6f1-d472-4931-97ea-e16b2e33c81b">
+
+
+
+
+
+
+
+
+
     
 
    
@@ -185,4 +213,3 @@
 
 
 
-cd
