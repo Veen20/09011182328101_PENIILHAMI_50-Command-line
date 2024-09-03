@@ -53,7 +53,7 @@
 
 11. ls = Menampilkan daftar file dan direktori di dalam direktori saat ini.
 
-    <mg width="500" alt="Screenshot from 2024-09-04 01-05-36" src="https://github.com/user-attachments/assets/4ead1a65-d153-48da-ba6f-615bd5e54517">
+    <img width="500" alt="Screenshot from 2024-09-04 01-05-36" src="https://github.com/user-attachments/assets/4ead1a65-d153-48da-ba6f-615bd5e54517">
 
 12. 
 
