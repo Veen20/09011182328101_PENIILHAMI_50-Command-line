@@ -17,7 +17,7 @@
 
 2. exit = Keluar dari shell terminal atau sesi SSH.
 
-   <img width="500" alt="Screenshot from 2024-09-04 00-27-16" src="https://github.com/user-attachments/assets/9ebf7653-e511-4126-ba61-d16707d318c4">
+   <img width="500" alt="Screenshot from 2024-09-04 00-51-21" src="https://github.com/user-attachments/assets/9235761e-887e-4d11-895c-9be952c44488">
 
 3. hostname = Menamoilkan atau mengatur nama host sistem.
 
