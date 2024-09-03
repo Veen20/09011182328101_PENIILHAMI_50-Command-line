@@ -91,7 +91,20 @@
 
     <img width="500" alt="Screenshot from 2024-09-04 01-36-08" src="https://github.com/user-attachments/assets/42f61e16-4322-4a74-ad2e-26ae520f9266">
 
-21. 
+21. man = menampilkan halaman manual dari perintah atau program di sistem Unix-like seperti Linux. Halaman manual ini memberikan informasi detail tentang perintah, termasuk opsi-opsi yang tersedia, penggunaan, dan contoh.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-39-37" src="https://github.com/user-attachments/assets/c66d5bf2-6280-4738-a788-ed64bb2e008e">
+
+22. locale = menampilkan informasi tentang pengaturan lokal (locale) di sistem Linux. Pengaturan lokal mencakup berbagai parameter yang mempengaruhi bagaimana teks, angka, dan tanggal ditampilkan, berdasarkan bahasa dan regional.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-41-38" src="https://github.com/user-attachments/assets/cc99781d-66be-421e-b2c3-c7c0e2473d42">
+
+23. touch =  membuat file kosong baru atau memperbarui timestamp (waktu terakhir diakses dan dimodifikasi) dari file yang sudah ada.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-46-05" src="https://github.com/user-attachments/assets/9704ebba-ae85-475b-971e-ab18d9123d8b">
+
+24. 
+
 
 
     
