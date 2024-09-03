@@ -55,9 +55,38 @@
 
     <img width="500" alt="Screenshot from 2024-09-04 01-05-36" src="https://github.com/user-attachments/assets/4ead1a65-d153-48da-ba6f-615bd5e54517">
 
-12. 
+12. ip a = Menampilkan informasi alamat IP untuk semua antarmuka jaringan.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-09-50" src="https://github.com/user-attachments/assets/32c21d89-0876-4a74-8f93-50a8feca013a">
+
+13. du = Menampilkan penggunaan ruang disk untuk file dan direktori.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-12-29" src="https://github.com/user-attachments/assets/ee09ba92-ec23-4b3c-a55f-70a13c139025">
+
+14. ps = Menampilkan daftar proses yang sedang berjalan.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-14-58" src="https://github.com/user-attachments/assets/d36c57c5-8bd6-4970-b762-cfc0f7e0b0d5">
+
+15. date = Menampilkan tanggal dan waktu saat ini.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-17-57]" src="https://github.com/user-attachments/assets/68c0d3c0-d004-4a13-be10-1c180cf72434">
+
+16. uptime = Menampilkan waktu sejak sistem dinyalakan dan waktu aktif.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-19-58" src="https://github.com/user-attachments/assets/3a11da7b-9b05-43a1-8966-9ad25d4d36f5">
+
+17. 
 
 
+
+
+
+
+
+
+
+
+  
     
 
 
