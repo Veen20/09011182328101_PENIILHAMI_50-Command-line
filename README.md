@@ -103,12 +103,31 @@
 
     <img width="500" alt="Screenshot from 2024-09-04 01-46-05" src="https://github.com/user-attachments/assets/9704ebba-ae85-475b-971e-ab18d9123d8b">
 
-24. 
+24. paswwd = Mengubah kata sandi pengguna di sistem Linux. Perintah ini dapat digunakan untuk mengubah kata sandi pengguna saat ini atau kata sandi untuk pengguna lain jika Anda memiliki hak akses superuser (sudo).
 
+    <img width="500" alt="Screenshot from 2024-09-04 01-49-10" src="https://github.com/user-attachments/assets/972027cf-e876-40ca-800a-4ddcc25142ea">
 
+25. uname -s = menampilkan nama sistem operasi.
+
+    <img width="500" alt="Screenshot from 2024-09-04 01-52-43" src="https://github.com/user-attachments/assets/71f2093f-78d3-491c-ae09-b62fc0c93ddf">
+
+26. uname -n = untuk menampilkan nama host jaringan.
+   
+    <img width="500" alt="Screenshot from 2024-09-04 01-56-33" src="https://github.com/user-attachments/assets/1d297506-9f38-415a-9a07-42e3d60f31be">
+
+27. uname -r = menampilkan versi kernel yang sedang digunakan.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-01-08" src="https://github.com/user-attachments/assets/c7aac607-6697-456e-b8d9-3882b09e31c6">
+
+28. df -i = menampilkan informasi tentang ruang disk yang tersedia pada filesystem. Opsi -i menampilkan informasi tentang inode, bukan ruang disk.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-04-21" src="https://github.com/user-attachments/assets/e8ed5f60-2fb9-45a0-bb13-f4d90325ba4b">
+
+29. 
 
     
 
+    
 
     
 
