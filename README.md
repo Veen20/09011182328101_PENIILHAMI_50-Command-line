@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f75d260a-dcde-4ce2-a6e2-0da981c7826a)# 50-Command-line
+# 50-Command-line
 <div align="center">
   
 *Disusun Oleh:*\
@@ -166,6 +166,7 @@
 39. df = Menampilkan Ruang Disk yang Tersedia.
 
     <img width="500" alt="Screenshot from 2024-09-04 02-43-57" src="https://github.com/user-attachments/assets/3fa9a6f1-d472-4931-97ea-e16b2e33c81b">
+    
 40. groups = menampilkan grup-grup yang menjadi anggota bagi pengguna yang ditentukan. Jika perintah ini dijalankan tanpa argumen, itu akan menampilkan grup-grup yang menjadi anggota bagi pengguna yang sedang aktif (pengguna saat ini).
 
     <img width="500" alt="Screenshot from 2024-09-04 02-51-07" src="https://github.com/user-attachments/assets/ce33e028-d6f0-4598-a6d9-ddcc4b087776">
@@ -193,6 +194,27 @@
 46. uname -v = menampilkan versi kernel yang sedang berjalan, sering kali mencakup informasi tentang tanggal dan waktu kompilasi kernel. Output ini memberikan rincian tentang build kernel yang sedang digunakan.
 
     <img width="500" alt="Screenshot from 2024-09-04 03-10-32" src="https://github.com/user-attachments/assets/c3651bf2-be05-44ac-9bf4-b5747462471e">
+
+47. uname -m = menampilkan arsitektur mesin dari sistem. Ini menunjukkan jenis perangkat keras yang digunakan oleh sistem, seperti x86_64, armv7l, atau aarch64.
+
+    <img width="500" alt="Screenshot from 2024-09-04 03-22-09" src="https://github.com/user-attachments/assets/73e1ead7-8d8c-45f4-996c-d148f7539f3e">
+
+48. echo "hello" =  menampilkan pesan atau teks di terminal. Ini adalah salah satu perintah yang paling sederhana dan sering digunakan dalam scripting shell untuk menampilkan informasi kepada pengguna atau untuk debugging.
+
+    <img widthy="500" alt="Screenshot from 2024-09-04 03-24-28" src="https://github.com/user-attachments/assets/aa9312c0-a220-4162-b685-67dec02329df">
+
+49. cd = Pindah direktori.
+
+    <img width="500" alt="Screenshot from 2024-09-04 03-32-22" src="https://github.com/user-attachments/assets/b0d8a406-7eeb-42e5-9851-22787d7d7940">
+
+50. apt = Mengelola paket.
+
+    <img width="500" alt="Screenshot from 2024-09-04 03-36-01" src="https://github.com/user-attachments/assets/02bb7414-4f90-449b-b619-0eb3893139db">
+
+
+
+
+
 
 
 
