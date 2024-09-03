@@ -1,4 +1,4 @@
-# 50-Command-line
+![image](https://github.com/user-attachments/assets/f75d260a-dcde-4ce2-a6e2-0da981c7826a)# 50-Command-line
 <div align="center">
   
 *Disusun Oleh:*\
@@ -166,6 +166,40 @@
 39. df = Menampilkan Ruang Disk yang Tersedia.
 
     <img width="500" alt="Screenshot from 2024-09-04 02-43-57" src="https://github.com/user-attachments/assets/3fa9a6f1-d472-4931-97ea-e16b2e33c81b">
+40. groups = menampilkan grup-grup yang menjadi anggota bagi pengguna yang ditentukan. Jika perintah ini dijalankan tanpa argumen, itu akan menampilkan grup-grup yang menjadi anggota bagi pengguna yang sedang aktif (pengguna saat ini).
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-51-07" src="https://github.com/user-attachments/assets/ce33e028-d6f0-4598-a6d9-ddcc4b087776">
+
+41. tput = berinteraksi dengan terminal dan mengontrol berbagai aspek tampilan terminal.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-53-29" src="https://github.com/user-attachments/assets/8acdee44-a40b-41da-a1bf-ae187065ba57">
+
+42. zip =  mengompresi file dan direktori menjadi arsip dalam format .zip. Format .zip adalah salah satu format kompresi yang paling umum dan banyak didukung. Perintah ini juga dapat digunakan untuk menambah, menghapus, dan mengelola arsip .zip.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-55-46" src="https://github.com/user-attachments/assets/5ccd3a22-24b7-4cb0-84a4-0084fa0ca624">
+
+43. chattr = mengubah atribut file sistem berkas di Linux. Atribut ini dapat mempengaruhi bagaimana file dapat diakses, diubah, atau dihapus. chattr umumnya digunakan oleh administrator sistem untuk melindungi file atau direktori dari modifikasi yang tidak diinginkan.
+
+    <img width="500" alt="Screenshot from 2024-09-04 02-58-55" src="https://github.com/user-attachments/assets/0956ed82-5669-4bf5-9e0e-e67a3e16c377">
+
+44. unalias =  menghapus alias yang telah didefinisikan sebelumnya di shell. Alias adalah nama pendek yang diberikan kepada perintah atau serangkaian perintah untuk mempermudah pengguna dalam mengetikkan perintah yang sering digunakan.
+
+    <img width="500" alt="Screenshot from 2024-09-04 03-01-26" src="https://github.com/user-attachments/assets/eeb8f5d2-2c61-4b5b-b0d5-de348dc64437">
+
+45. nohup = menjalankan proses atau perintah di latar belakang sehingga proses tersebut tetap berjalan meskipun sesi terminal ditutup atau pengguna log out. nohup merupakan singkatan dari "no hang up". Ini sangat berguna untuk menjalankan pekerjaan jangka panjang atau tugas yang harus terus berjalan meskipun Anda tidak sedang terhubung ke terminal.
+
+    <img width="500" alt="Screenshot from 2024-09-04 03-06-57" src="https://github.com/user-attachments/assets/1f719a2e-c189-4715-aed5-5b1262803369">
+
+46. uname -v = menampilkan versi kernel yang sedang berjalan, sering kali mencakup informasi tentang tanggal dan waktu kompilasi kernel. Output ini memberikan rincian tentang build kernel yang sedang digunakan.
+
+    <img width="500" alt="Screenshot from 2024-09-04 03-10-32" src="https://github.com/user-attachments/assets/c3651bf2-be05-44ac-9bf4-b5747462471e">
+
+
+
+
+
+
+
 
 
 
