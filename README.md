@@ -141,7 +141,7 @@ KELAS       : SK3B
 
 29. free =  menampilkan informasi tentang penggunaan memori di sistem, termasuk memori fisik (RAM) dan memori swap.
 
- <img width="500" alt="Screenshot from 2024-09-04 02-07-17" src="https://github.com/user-attachments/assets/c9f935b4-559f-4101-bdca-670ccd0c1e60">
+    <img width="500" alt="Screenshot from 2024-09-04 02-07-17" src="https://github.com/user-attachments/assets/c9f935b4-559f-4101-bdca-670ccd0c1e60">
 
 30. find =  Mencari file dan direktori.
 
